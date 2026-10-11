@@ -1,9 +1,9 @@
 package POO;
 
 public class Estatico {
-    public static int COUNT = 0;
+    public static int COUNT = 0; //aqui a variável vai ser compartilhada entre todos os objetos da mesma classe
     public void Counter(){
-        COUNT++;
+        COUNT++;//aqui a variável estática vai ser incrementada a cada vez que um novo objeto for criado
     }
 
     public static void main(String[] args){
