@@ -11,6 +11,8 @@ public class ClasseMatematica {
         System.out.println("Math.abs(-20):" +b);
         //Math.abs() retorna o valor absoluto do seu parâmetro, ou seja, irá transformar o valor negativo em positivo
 
+        //Math.abs() retorna o valor absoluto do seu parâmetro
+
         System.out.println("");
 
         double c = Math.ceil(7.342);
