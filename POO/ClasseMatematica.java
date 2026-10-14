@@ -9,7 +9,7 @@ public class ClasseMatematica {
 
         int b = Math.abs(-20);
         System.out.println("Math.abs(-20):" +b);
-        //Math.abs() retorna o valor absoluto do seu parâmetro
+        //Math.abs() retorna o valor absoluto do seu parâmetro, ou seja, irá transformar o valor negativo em positivo
 
         System.out.println("");
 
