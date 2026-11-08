@@ -1,4 +1,4 @@
-public class Variavel{
+public class variavel{
     public static void main(String[] args){
         String name = "João";
 

@@ -1,4 +1,4 @@
-public class Arrays{
+public class arrays{
     public static void main(String[] args){
         int[] n = new int[5];
         n[0] = 10;

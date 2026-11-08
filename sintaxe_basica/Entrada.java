@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //após importar, tem que criar um onjeto Scanner
 
-public class Entrada{
+public class entrada{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in); //objeto Scanner criado!
         System.out.print("informe um nome: ");

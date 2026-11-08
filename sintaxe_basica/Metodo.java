@@ -1,4 +1,4 @@
-public class Metodo {
+public class metodo {
     //método: bloco de código criado para fazer uma tarefa específica
     //é como se fosse uma função em c
 

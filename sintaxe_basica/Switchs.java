@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Switchs{
+public class switchs{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
