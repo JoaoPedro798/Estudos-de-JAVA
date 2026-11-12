@@ -17,7 +17,7 @@ public abstract class Forma {
         return calcularArea() > outra.calcularArea();
     }
 
-    @Override///ele avisa que o que irá retornar está uma mensagem personalisad e não a forma padrão da superclasse Object
+    @Override//ele é um aviso de vai estar redefinindo um método padrão do Java da classe Object
     public String toString() {
         return this.nome + " - Area: " + calcularArea();
     }

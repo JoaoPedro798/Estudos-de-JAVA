@@ -20,7 +20,7 @@ public class Retangulo extends Forma {
         return this.altura;
     }
 
-    @Override//irá mostrar o retorno personalisado
+    @Override//ele é um aviso de vai estar redefinindo um método que foi declarado na classe pai
     public double calcularArea() {
         return this.largura * this.altura;
     }
