@@ -18,7 +18,7 @@ public class ListaCompras {
     }
 
     public void removerItem(String item){
-        if(!this.itens.remove(item)){//ela diz: "se este item não foi removido..."
+        if(!this.itens.remove(item)){//ela diz: "se o  item que o usuário quer remover não está na lista..."
             System.out.println(item +" não está na lista");
         }
     }
